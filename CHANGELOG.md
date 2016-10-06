@@ -1,3 +1,7 @@
+## 0.12.16
+
+* Allow tools to interact with browser debuggers using the JSON reporter.
+
 ## 0.12.15+9
 
 * Widen version constraint on `analyzer`.
